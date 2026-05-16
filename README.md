@@ -113,7 +113,7 @@ Stroke_Prediction_App/
 ├── early-stroke-risk-prediction.ipynb
 ├── stroke_risk_dataset_v2.csv
 │
-├── images/
+├── Images/
 │   ├── confusion_matrix.png
 │   ├── feature_importance.png
 │   ├── correlation_heatmap.png
