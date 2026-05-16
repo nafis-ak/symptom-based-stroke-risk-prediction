@@ -126,38 +126,46 @@ Stroke_Prediction_App/
 
 ```
 # Installation Guide
-```Bash
-1️ Clone Repository
+
+```bash
+1. Clone Repository
 git clone https://github.com/nafis-ak/symptom-based-stroke-risk-prediction.git
-2️ Move Into Project Directory
+
+2. Move Into Project Directory
 cd symptom-based-stroke-risk-prediction
-3️ Install Dependencies
+
+3. Install Dependencies
 pip install -r requirements.txt
-4️ Run Application
+
+4. Run Application
 streamlit run app.py
-## Application Screenshots
-
-### Main Dashboard
-
-<p align="center">
-<img src="Stroke_Prediction_App/Images/screenshots/app_home.png" width="900">
-</p>
-
-### Prediction Result
-
-<p align="center">
-<img src="Stroke_Prediction_App/Images/screenshots/prediction_result.png" width="900">
-</p>
-
-### PDF Report
-
-<p align="center">
-<img src="Stroke_Prediction_App/Images/screenshots/pdf_report.png" width="900">
-</p>
-
 ```
-# Research Objectives
 
+---
+
+# Application Screenshots
+
+## Main Dashboard
+
+<p align="center">
+<img src="Stroke_Prediction_App/Images/Screenshot/Dashboard (1).png" width="900">
+</p>
+
+---
+
+## Prediction Result
+
+<p align="center">
+<img src="Stroke_Prediction_App/Images/Screenshot/Result (1).png" width="900">
+</p>
+
+---
+
+## PDF Report
+
+<p align="center">
+<img src="Stroke_Prediction_App/Images/Screenshot/PDF for result (1).png" width="900">
+</p>
 ```bash
 Explore symptom-based healthcare prediction systems
 Apply Explainable AI in medical applications
