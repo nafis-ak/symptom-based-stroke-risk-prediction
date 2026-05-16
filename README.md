@@ -135,20 +135,25 @@ cd symptom-based-stroke-risk-prediction
 pip install -r requirements.txt
 4️ Run Application
 streamlit run app.py
-Application Screenshots
-Main Dashboard
-<p align="center"> <img src="screenshots/app_home.png" width="900"> </p>
-Prediction Result
-<p align="center"> <img src="screenshots/prediction_result.png" width="900"> </p>
-AI Generated PDF Report
-<p align="center"> <img src="screenshots/pdf_report.png" width="900"> </p>
-Model Visualization
-Confusion Matrix
-<p align="center"> <img src="Visualization/confusion_matrix.png" width="700"> </p>
-Feature Importance
-<p align="center"> <img src="Visualization/feature_importance.png" width="700"> </p>
-Correlation Heatmap
-<p align="center"> <img src="Visualization/correlation_heatmap.png" width="700"> </p>
+## Application Screenshots
+
+### Main Dashboard
+
+<p align="center">
+<img src="Stroke_Prediction_App/Images/screenshots/app_home.png" width="900">
+</p>
+
+### Prediction Result
+
+<p align="center">
+<img src="Stroke_Prediction_App/Images/screenshots/prediction_result.png" width="900">
+</p>
+
+### PDF Report
+
+<p align="center">
+<img src="Stroke_Prediction_App/Images/screenshots/pdf_report.png" width="900">
+</p>
 
 ```
 # Research Objectives
