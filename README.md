@@ -119,7 +119,7 @@ Stroke_Prediction_App/
 │   ├── correlation_heatmap.png
 │   └── before_after_smote.png
 │
-├── screenshots/
+├── Screenshot/
 │   ├── app_home.png
 │   ├── prediction_result.png
 │   └── pdf_report.png
